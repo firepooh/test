@@ -4,17 +4,18 @@ BBBB
 CCCC
 dddd
 EEEE
-Driver ±¸Çö...
+FFFF
+Driver êµ¬í˜„...
 
 
 ========
-±â´ÉÀûÀÎ ±¸Çö...
+ê¸°ëŠ¥ì ì¸ êµ¬í˜„...
 
-1. BLE Driver »ı¼º.
+1. BLE Driver ìƒì„±.
    write/read/
    
-   write : mtu size ¸¸Å­ ³ª´²¼­ Àü¼Û. 
-   read : ring buffer¿¡...
+   write : mtu size ë§Œí¼ ë‚˜ëˆ ì„œ ì „ì†¡. 
+   read : ring bufferì—...
 
    
    
@@ -22,8 +23,8 @@ Driver ±¸Çö...
 2. 
 
 
-1. if test mode ¸é, service¿¡ »ó°ü¾øÀÌ BT È°¼ºÈ­.... SC_XXXXX (ÀÓÀÇ....)
-2. PING....PONG.... ±â´É¸¸ Ãß°¡....
+1. if test mode ë©´, serviceì— ìƒê´€ì—†ì´ BT í™œì„±í™”.... SC_XXXXX (ì„ì˜....)
+2. PING....PONG.... ê¸°ëŠ¥ë§Œ ì¶”ê°€....
 
 
 
