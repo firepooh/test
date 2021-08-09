@@ -8,6 +8,7 @@ B3
 B4
 B5
 B6
+B7
 =====
 BRANCH_A
 A1
