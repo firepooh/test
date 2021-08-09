@@ -9,3 +9,5 @@ B4
 =====
 BRANCH_A
 A1
+=====
+REVERT A1
