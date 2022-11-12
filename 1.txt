@@ -23,6 +23,8 @@ A1
 =====
 A_CFG1
 A_CFG2
+A_CFG3
+A_CFG4
 B_CFG1
 =====
 B_LOCAL_CFG1
