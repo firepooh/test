@@ -23,3 +23,5 @@ A1
 =====
 A_CFG1
 B_CFG1
+=====
+B_LOCAL_CFG1
