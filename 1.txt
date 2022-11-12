@@ -22,3 +22,4 @@ BRANCH_A
 A1
 =====
 A_CFG1
+B_CFG1
