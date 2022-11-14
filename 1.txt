@@ -29,3 +29,6 @@ B_CFG1
 =====
 B_BRANCH_CFG1
 B_BRANCH_CFG2
+====
+master editor
+M_CFG1
