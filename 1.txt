@@ -34,3 +34,4 @@ master editor
 M_CFG1
 M_CFG2
 M_CFG3
+M_CFG4
