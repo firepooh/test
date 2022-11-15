@@ -9,7 +9,10 @@ A2
 A3
 B3
 A4
+A5
 A6
+A7
+A8
 ========
 B1
 B2
@@ -34,5 +37,5 @@ master editor
 M_CFG1
 M_CFG2
 M_CFG3
-P_CFG1
+M_CFG4
 M_CFG5
