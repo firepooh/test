@@ -21,7 +21,6 @@ B7
 BRANCH_A
 A1
 =====
-A_CFG1
 A_CFG2
 A_CFG3
 A_CFG4
