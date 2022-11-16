@@ -4,15 +4,7 @@ master
 master(working)
 master(update)
 ========
-A1 : CLEAR
-A2
-A3
-B3
-A4
-A5
-A6
-A7
-A8
+
 ========
 B1
 B2
