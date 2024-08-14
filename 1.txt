@@ -50,5 +50,6 @@ M_CFG5
 void master_working(void)
 {
   /* commit, local branch test */
-
 }
+
+void master_working2(void)
